@@ -1,2 +1,2 @@
-# robotica-lab-15125
-Laboratório robótica 15125
+# Laboratorio de Robotica 15125-0-L-3
+Repositorio personal para codigos e informes de laboratorio
