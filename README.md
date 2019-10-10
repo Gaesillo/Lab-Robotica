@@ -5,4 +5,4 @@ Alumno: Julio Cesar Fuentealba Concha
 
 Ingenieria de Ejecucion Mecanica
 
-Grupo 3
+Grupo 3, Segundo Semestre 2019
